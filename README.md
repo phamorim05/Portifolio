@@ -1,2 +1,2 @@
 # Portifólio
-repositório de aprendizado e portifolio
+repositório de aprendizado e portifólio
